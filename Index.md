@@ -5,4 +5,4 @@
 
 
 # Landing Pad:
-[License](https://MareebaLocal.github.io/legal/License.md)
+[License](https://MareebaLocal.github.io/Legal/License.md)
