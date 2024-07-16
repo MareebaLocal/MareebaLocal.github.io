@@ -12,4 +12,7 @@
 > - We have the right to make executive decisions on any topic discussed within the region and decide whether it is appropriate to cover as news
 > [This essentially means if you request to see Potentially upsetting content, we have to right to **deny** any disclosures/requests]
 
+# Legal / Law Enforcement section;
+> Law enforcement has the right to request to remove / take down any content that is deemed inappropriate content.
+
 ``` Last Updated Tue 16 Jul 2024.```
